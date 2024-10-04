@@ -61,6 +61,8 @@ sort an undefined number of integers.
 
 -----------------------------------------------------------------
 
-## so_long: (in progress)
+## so_long:
 
-Once completed, it will be a small 2D game.
+SO_LONG is a 2D game where the player navigates through a map
+given as argument, aiming to collect all the items and
+exit the map with the fewest moves possible.
