@@ -63,6 +63,6 @@ sort an undefined number of integers.
 
 ## so_long:
 
-SO_LONG is a 2D game where the player navigates through a map
+so_long is a 2D game where the player navigates through a map
 given as argument, aiming to collect all the items and
 exit the map with the fewest moves possible.
